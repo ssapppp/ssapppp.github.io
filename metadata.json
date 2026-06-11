@@ -1,0 +1,6 @@
+{
+  "name": "한라산 탐방 빅데이터 대시보드",
+  "description": "연도별 한라산 탐방객 데이터 분석, 등산로별 실시간/혼잡 시간대 예측, 최적 탐방 경로 추천, 실시간 교통 환경 모니터링 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
